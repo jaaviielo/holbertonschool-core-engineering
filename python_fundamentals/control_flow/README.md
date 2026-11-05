@@ -6,4 +6,7 @@
 
 4- print_hexa.py: prints numbers 0 to 98 in decimal and hexadecimal.
 
-5- 
+5- print_comb2.py: prints number from 0 to 99 formatted as two-digit numbers separated by comma and space.
+last number must not be followed by comma.
+
+6- 
