@@ -2,4 +2,7 @@
 
 2- uppercase.py: function prints the string in uppercase followed by a new line.
 
-3-  
+3- print_last_digit.py: function prints last digit of number & return the value of last digit.
+
+4-  
+
