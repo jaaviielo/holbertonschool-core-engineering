@@ -8,4 +8,7 @@
 
 5- add.py: imports the function add() from the file add_0.py and prints the result of the addition 1 + 2 = 3.
 
-6- 
+6- calculation.py: imports functions from calculator_1.py and prints the result of:addition
+subtraction multiplication division.
+
+7- 
