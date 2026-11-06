@@ -4,5 +4,4 @@
 
 3- print_last_digit.py: function prints last digit of number & return the value of last digit.
 
-4-  
-
+4-  pow.py: function return the value of a raised to the power of b.
