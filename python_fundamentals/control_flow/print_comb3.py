@@ -16,4 +16,4 @@ for first_digit in range(10):
                 print(", {}".format(first_digit) +
                       "{}".format(second_digit), end="")
 
-print(" ", end="")
+print()
