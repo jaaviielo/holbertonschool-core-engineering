@@ -2,11 +2,13 @@
 
 def uppercase(str):
 
+    result = ""
+
     for letter in str:
 
         if 97 <= ord(letter) <= 122:
             letter = chr(ord(letter) - 32)
 
-        print("%s" % letter, end="")
+        result += letter
 
-    print("%s" % "")
+    print("{}".format(result))
