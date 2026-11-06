@@ -10,4 +10,5 @@ print("{} * {} = {}".format(a, b, mul(a, b)))
 print("{} / {} = {}".format(a, b, div(a, b)))
 
 
-if name == "main": main()
+if name == "main":
+    main()
