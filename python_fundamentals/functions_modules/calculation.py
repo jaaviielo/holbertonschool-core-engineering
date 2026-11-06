@@ -4,7 +4,7 @@ from calculator_1 import addition, subtraction, multiplication, division
 
 
 def main():
-    
+
     a = 10
     b = 5
 
