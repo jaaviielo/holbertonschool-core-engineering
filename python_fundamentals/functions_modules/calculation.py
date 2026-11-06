@@ -1,7 +1,6 @@
 #!/usr/bin/env python3
 
-
-from calculator_1 import addition, subtraction, multiplication, division
+from calculator_1 import add, sub, mul, div
 
 
 def main():
@@ -9,10 +8,10 @@ def main():
     a = 10
     b = 5
 
-    print("{}".format(addition(a, b)))
-    print("{}".format(subtraction(a, b)))
-    print("{}".format(multiplication(a, b)))
-    print("{}".format(division(a, b)))
+    print("{} + {} = {}".format(a, b, sub(a, b)))
+    print("{} - {} = {}".format(a, b, add(a, b)))
+    print("{} * {} = {}".format(a, b, div(a, b)))
+    print("{} / {} = {}".format(a, b, mul(a, b)))
 
 
 if __name__ == "__main__":
