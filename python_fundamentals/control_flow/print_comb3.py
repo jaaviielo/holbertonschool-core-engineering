@@ -5,7 +5,7 @@ first_time = True
 for first_digit in range(10):
 
     for second_digit in range(10):
-
+ 
         if second_digit > first_digit:
 
             if first_time:
@@ -14,4 +14,6 @@ for first_digit in range(10):
 
             else:
                 print(", {}".format(first_digit) +
-                      "{}".format(second_digit), end=" ")
+                      "{}".format(second_digit), end="")
+
+print (" ", end="")                
