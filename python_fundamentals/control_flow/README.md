@@ -9,4 +9,4 @@
 5- print_comb2.py: prints number from 0 to 99 formatted as two-digit numbers separated by comma and space.
 last number must not be followed by comma.
 
-6- 
+6- print_comb3.py: Print all unique combinations of two different digits from 0 to 9.
