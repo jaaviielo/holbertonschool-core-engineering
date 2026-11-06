@@ -2,11 +2,8 @@
 
 def main():
 
-    try:
-        from variable_load_5 import a
-        print("{}".format(a))
-    except ImportError:
-        pass
+    from variable_load_5 import a
+    print("{}".format(a))
 
 
 if __name__ == "__main__":
