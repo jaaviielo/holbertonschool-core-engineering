@@ -6,4 +6,6 @@
 
 3- print_matrix_integer.py: a function that prints a matrix of integers.
 
-4- 
+4- add_tuple.py: function that adds two tuples.
+
+5- 
