@@ -12,4 +12,6 @@
 
 6- update_dictionary.py: a function that replaces or adds a key/value pair in a dictionary.
 
-7- 
+7- best_score.py: a function that returns the key with the biggest integer value.
+
+8- 
