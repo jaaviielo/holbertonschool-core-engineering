@@ -10,4 +10,6 @@
 
 5- common_elements.py: a function that returns a set of common elements in two sets.
 
-6- 
+6- update_dictionary.py: a function that replaces or adds a key/value pair in a dictionary.
+
+7- 
