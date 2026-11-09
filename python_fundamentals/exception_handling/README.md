@@ -6,4 +6,6 @@
 
 3- safe_print_division.py:  a function that divides two integers.
 
-3- 
+3-  raise_exception.py: a function that raises a TypeError.
+
+4- 
