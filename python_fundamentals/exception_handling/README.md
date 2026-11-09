@@ -2,4 +2,6 @@
 
 1- safe_print_integer.py: a function that prints an integer with "{:d}".format() followed by a new line.
 
-2- 
+2- safe_print_list_integers.py: a function that prints the first x elements of a list.
+
+3- 
