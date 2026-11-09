@@ -8,4 +8,6 @@
 
 3-  raise_exception.py: a function that raises a TypeError.
 
-4- 
+4- raise_exception_msg.py: a function that raises a NameError with a custom message.
+
+5- 
