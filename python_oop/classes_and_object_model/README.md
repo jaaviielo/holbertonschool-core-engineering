@@ -4,4 +4,6 @@
 
 3. 2-square.py: Add validations to the sizeattribute on the Square class.
 
-4. 
+4. 3-square.py:  an instance method area(self) to the Square class that returns the area of the square based on it's side length.
+
+5. 
