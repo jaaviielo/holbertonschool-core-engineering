@@ -2,4 +2,6 @@
 
 2. 1-square.py: a class Square with a private instance attribute size the size must be set when the object is created.
 
-3. 
+3. 2-square.py: Add validations to the sizeattribute on the Square class.
+
+4. 
