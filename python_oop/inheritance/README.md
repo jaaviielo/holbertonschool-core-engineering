@@ -1,3 +1,5 @@
 1. base_geometry.py: class defines common behavior that can be reused by multiple geometric shapes.
 
-2. 
+2. 1-rectangle.py: class Rectangle that inherits from BaseGeometry the class must represent a rectangle defined by its width and height.
+
+3. 
