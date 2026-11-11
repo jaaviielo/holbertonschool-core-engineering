@@ -8,6 +8,8 @@
 
 5. 4-square.py:  Implement controlled access to attributes add getters and setters for the size attribute.
 
-6. 5-square.pt:  prints in stdout the square with the character # if size is equal to 0, print an empty line.
+6. 5-square.py:  prints in stdout the square with the character # if size is equal to 0, print an empty line.
 
-7.
+7. 6-square.py: Print Square Instance.
+
+8. 
