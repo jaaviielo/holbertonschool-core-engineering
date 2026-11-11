@@ -13,3 +13,7 @@
 7. 6-square.py: Print Square Instance.
 
 8. 1-rectangle.py: Define a class Rectangle with private instance attribute width property width(self) to retrieve it property setter width(self, value)to set it.
+
+9. 2-rectangle.py: Add the following instance methods to the Rectangle class:area() that returns the rectangle area perimeter() that returns the rectangle perimeter:if width or height is equal to 0, perimeter is equal to 0.
+
+10. 
