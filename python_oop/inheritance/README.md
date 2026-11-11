@@ -6,4 +6,6 @@
 
 4. 1-square.py: Create a class Square that inherits from Rectangle.
 
-5. 
+5. 2-square.py:  Extend the Square class.
+
+6. 
