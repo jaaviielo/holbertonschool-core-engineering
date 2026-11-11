@@ -2,4 +2,6 @@
 
 2. 1-rectangle.py: class Rectangle that inherits from BaseGeometry the class must represent a rectangle defined by its width and height.
 
-3. 
+3. 2-rectangle.py:  Extend the Rectangle class.
+
+4. 
