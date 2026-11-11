@@ -12,4 +12,4 @@
 
 7. 6-square.py: Print Square Instance.
 
-8. 
+8. 1-rectangle.py: Define a class Rectangle with private instance attribute width property width(self) to retrieve it property setter width(self, value)to set it.
