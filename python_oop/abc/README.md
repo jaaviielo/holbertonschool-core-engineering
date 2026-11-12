@@ -2,4 +2,6 @@
 
 1. shapes.py:  an abstract class named Shape with two abstract methods: area and perimeter.
 
-2. 
+2. flyingfish.py: a FlyingFish class that inherits from both a Fish class and a Bird class.
+
+3. 
