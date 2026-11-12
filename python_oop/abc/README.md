@@ -4,4 +4,6 @@
 
 2. flyingfish.py: a FlyingFish class that inherits from both a Fish class and a Bird class.
 
-3. 
+3. dragon.py: two mixin classes, SwimMixin and FlyMixin, each equipped with methods swim and fly respectively. Next, construct a class Dragon that inherits from both mixins. The goal is to show that a Dragon instance can both swim and fly.
+
+4. 
