@@ -2,4 +2,6 @@
 
 2. write_file.py: a function that writes a string to a text file (UTF-8) and returns the number of characters written.
 
-3.
+3. append_write.py: a function that appends a string at the end of a text file (UTF-8) and returns the number of characters added.
+
+4. 
